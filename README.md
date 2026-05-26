@@ -1,2 +1,2 @@
-# ProtoX-AD-ProtoX-AD-Self-Explainable-Time-Series-Anomaly-Detection-and-Characterization
+# ProtoX-AD-Self-Explainable-Time-Series-Anomaly-Detection-and-Characterization
 Code coming soon!
